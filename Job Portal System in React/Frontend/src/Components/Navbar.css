@@ -1,0 +1,32 @@
+/* Navbar.css */
+
+/* Navbar container */
+.Navbar {
+    background-color: #333; /* Background color */
+    /* color: white; Text color */
+    padding: 16px; /* Padding for the whole navbar */
+  }
+  
+  /* Navigation list */
+  .Navbar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Navigation items */
+  .Navbar li {
+    display: inline;
+    margin-right: 20px; /* Spacing between navigation items */
+  }
+  
+  /* Links in the navbar */
+  .Navbar a {
+    text-decoration: none; /* Remove underline from links */
+    color: white; /* Link color */
+  }
+  
+  /* Change link color on hover */
+  .Navbar a:hover {
+    color: #66c2ff; /* Hover color */
+  }
+  

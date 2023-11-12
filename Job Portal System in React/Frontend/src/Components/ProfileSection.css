@@ -1,0 +1,31 @@
+.profile {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    /* margin: 20px 0; */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .userInfo {
+    margin-top: 10px;
+  }
+  
+  .userInfo p {
+    margin: 5px 0;
+    font-size: 25px;
+    color: #555;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .userInfo p strong {
+    color: #333;
+   
+  }
+  

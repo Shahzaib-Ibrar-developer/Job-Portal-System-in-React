@@ -1,0 +1,15 @@
+.btn{
+    display: flex;
+    justify-content: right;
+}
+.btn button{
+    background-color: rgb(30, 129, 204);
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    display: flex;
+    margin-right: 10px;
+    margin-top: 5px;
+    
+}

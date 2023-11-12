@@ -1,0 +1,60 @@
+.job-data {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-height: auto;
+    overflow-y: auto;
+  } 
+  .job-data h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  .job-data li {
+    
+    background-color: #fff;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .job-data li strong {
+    color: #007bff;
+  }
+  .job-data ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  button{
+    background-color: rgb(48, 123, 180);
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 2px solid black;
+   
+    margin-right: 5px;
+  
+    
+}
+
+
+
+/*   
+ 
+  
+  .job-data ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+  
+  
+  
+  /* Add more styles as needed */
+   /* */

@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.mainSection{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+   margin-top: 50px;
+   
+}
+
+.Container-1{
+height: 400px;
+width: 400px;
+border: 2px solid black;
+background-color: #f5f5f5;
+border-radius: 10px;
+
+}
+.Container-2{
+    /* height: 600px; */
+    width: 600px;
+    /* background-color:rgb(135, 206, 235); */
+    border: 2px solid black;
+  border-radius: 10px;
+  max-height: auto;
+
+}
+.Container-3{
+    height: 250px;
+    background-color:white;
+    border-radius: 10px;
+
+    width: 300px;
+  border: 2px solid black;
+}
